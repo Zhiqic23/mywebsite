@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhiqic23.github.io/mywebsite/sitemap.xml
